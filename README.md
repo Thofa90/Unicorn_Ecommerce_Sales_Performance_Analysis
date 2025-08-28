@@ -4,11 +4,20 @@
 
 Unicorn E-Commerce Sales Performance Analysis (2015–2018)
 
-# Project summary
-Data Exploration by SQL
-Data Cleaning using Spreadsheets
-Getting Insights using Tableau
-Executive summary and presentation
+# 📊 Project Summary
+
+This project analyzes Unicorn’s sales performance (2015–2018) across categories (Furniture, Office Supplies, Technology), customer segments, and regions. The goal was to identify profit drivers, bottlenecks, and inefficiencies.
+
+**Key insights include:**
+
+	•	Technology (50.79% profit) and Office Supplies (42.77%) are the main profit drivers.
+	•	Furniture (Tables & Bookcases) caused losses due to ~24% avg. discounts.
+	•	West region generated the highest profit ($108K, 37.85% share), while the South region lagged due to 5–8 day shipping delays.
+	•	Consumer segment contributed 50% of sales and 46% of profit, with strong repeat purchases.
+
+**Recommendations:** Promote high-margin products, cap discounts at 20%, improve logistics in South (reduce shipping delays by 2 days), and build customer loyalty programs.
+
+**Impact:** By addressing these areas, Unicorn could boost profit by 10–15% next year, while improving customer satisfaction and operational efficiency.
 
 ⸻
 
