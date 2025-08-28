@@ -96,9 +96,13 @@ If addressed effectively, Unicorn can:
 
 # 🔎 Database Link and SQL queries
 
-1. Database Link: postgres: [Click here](https://Test:bQNxVzJL4g6u@ep-noisy-flower-846766-pooler.us-east-2.aws.neon.tech/Unicorn.com)
-2. //Test:bQNxVzJL4g6u@ep-noisy-flower-846766-pooler.us-east-2.aws.neon.tech/Unicorn
-3. SQL Queries for business analysis: [Click here]([https://your-link-goes-here.com](https://docs.google.com/document/d/1HdGKNBeXT8zJ1HxpT-oSyGSVtKK8hEzWZa1ZjDTXE6c/edit?tab=t.0))
+1. Unicorn Database access process: postgres:
+   
+	Use the provided link in the "Import URL" section in Beekeeper to connect to Unicorn Data. Don’t forget to click on Enable SSL toggle before Connect.
+
+	postgres://Test:bQNxVzJL4g6u@ep-noisy-flower-846766-pooler.us-east-2.aws.neon.tech/Unicorn
+
+2. SQL Queries for business analysis: [Click here]([https://your-link-goes-here.com](https://docs.google.com/document/d/1HdGKNBeXT8zJ1HxpT-oSyGSVtKK8hEzWZa1ZjDTXE6c/edit?tab=t.0))
 4. 
-5. Final dataset: 
+5. Final dataset: You can find the dataset [here](data/unicorn_sales.csv).
   
