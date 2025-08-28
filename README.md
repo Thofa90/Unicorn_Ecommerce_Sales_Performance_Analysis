@@ -164,7 +164,7 @@ I built interactive dashboards in Tableau to analyze Unicorn Sales Data (2015–
 
 ## 🔹 Dashboard 1 (Overall Sales & Profit Insights)
 
-![Dashboard 1](dataset/Dashboard 2.png)
+![Dashboard 1](dataset/Dashboard2.png)
 
 	•	Displays total sales, profit, number of customers, and orders over years.
 	•	Shows profit & sales by category and sub-category, identifying profitable vs. loss-making products.
