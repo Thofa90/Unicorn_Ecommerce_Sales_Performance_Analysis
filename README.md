@@ -110,7 +110,7 @@ If addressed effectively, Unicorn can:
 
 **📊 1. Daily Monitoring Dashboard (Google Sheets)**
 
-Link for Google Sheet: [Click here](https://docs.google.com/spreadsheets/d/126F3HeCnNYX5u7FQmS0PWIk2nav5kglyfFxwRCNbq9A/edit?gid=1956504790#gid=1956504790)
+**Link for Google Sheet:** [Click here](https://docs.google.com/spreadsheets/d/126F3HeCnNYX5u7FQmS0PWIk2nav5kglyfFxwRCNbq9A/edit?gid=1956504790#gid=1956504790)
 
 In addition to the main analysis, I built a dynamic monitoring dashboard in Google Sheets to help the Unicorn DA team track sales and profit performance by year and region.
 
@@ -137,7 +137,7 @@ This Google Sheets dashboard makes it easy for non-technical users to interactiv
 
 **📑 2. Additional Google Sheets Analysis**
 
-Link for Google Sheet: [Click here](https://docs.google.com/spreadsheets/d/1AaaG0Gh6HVU84gtUj-r0LKzDfWaEyqkdm7i7oYX6TM8/edit?gid=1131846199#gid=1131846199)
+**Link for Google Sheet:** [Click here](https://docs.google.com/spreadsheets/d/1AaaG0Gh6HVU84gtUj-r0LKzDfWaEyqkdm7i7oYX6TM8/edit?gid=1131846199#gid=1131846199)
 
 I also performed hands-on business analysis directly in Google Sheets, answering operational and strategic questions using formulas, pivot tables, and conditional formatting.
 
@@ -162,7 +162,7 @@ This sheet-based analysis provided quick operational insights — from identifyi
 
 I built interactive dashboards in Tableau to analyze Unicorn Sales Data (2015–2018). These dashboards highlight key performance trends, product profitability, customer insights, and operational bottlenecks.
 
-Tableau public link: [Click here](https://public.tableau.com/app/profile/thofa.tazkia/viz/UnicornSalesPerformanceProject2015-2018/stateperformance?publish=yes&showOnboarding=true)
+**Tableau public link:** [Click here](https://public.tableau.com/app/profile/thofa.tazkia/viz/UnicornSalesPerformanceProject2015-2018/stateperformance?publish=yes&showOnboarding=true)
 
 ## 🔹 Dashboard 1 (Overall Sales & Profit Insights)
 
@@ -189,3 +189,29 @@ Tableau public link: [Click here](https://public.tableau.com/app/profile/thofa.t
 	•	Refining discount strategy to reduce losses in Furniture (Tables & Bookcases).
 	•	Optimizing shipping logistics, especially in the South region.
 	•	Enhancing customer segmentation to target profitable customer groups effectively.
+
+# 📌 Recommendations for Unicorn to maximize the profit
+
+	1.	Promote High-Margin Products
+ 
+	•	Focus on Technology (50.79% of total profit) and Office Supplies (42.77%), especially in the South region where sales are weaker.
+ 
+	2.	Optimize Discount Strategy
+ 
+	•	Cap discounts for Furniture items at ≤20% (current avg. ≈24%), which could recover ~42% of losses from Tables & Bookcases.
+ 
+	3.	Improve Shipping Efficiency
+ 
+	•	South region has longest delays (5–8 days) vs. Central (3–5 days).
+	•	Reducing delays by 2 days could improve customer retention and boost revenue by 10–15% in lagging states.
+ 
+	4.	Customer Segmentation & Loyalty
+ 
+	•	Consumer segment = 50% sales / 46% profit.
+	•	Loyalty programs for Corporate & Home Office could lift profits by 5–7% annually.
+
+⸻
+
+# 📌 Conclusion 
+
+By focusing on high-margin categories, reducing over-discounts, and cutting shipping delays (esp. in South), Unicorn can improve net profit by 10–15% next fiscal year. Strengthening customer segmentation and loyalty will further ensure sustained growth and higher retention, maximizing long-term profitability.
