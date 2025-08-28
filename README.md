@@ -96,7 +96,9 @@ If addressed effectively, Unicorn can:
 
 # 🔎 Database Link and SQL queries
 
-1. Database Link: postgres://Test:bQNxVzJL4g6u@ep-noisy-flower-846766-pooler.us-east-2.aws.neon.tech/Unicorn
-2. SQL Queries for business analysis: https://docs.google.com/document/d/1HdGKNBeXT8zJ1HxpT-oSyGSVtKK8hEzWZa1ZjDTXE6c/edit?tab=t.0
-3. Final dataset: 
+1. Database Link: postgres: [Click here](https://Test:bQNxVzJL4g6u@ep-noisy-flower-846766-pooler.us-east-2.aws.neon.tech/Unicorn.com)
+2. //Test:bQNxVzJL4g6u@ep-noisy-flower-846766-pooler.us-east-2.aws.neon.tech/Unicorn
+3. SQL Queries for business analysis: [Click here]([https://your-link-goes-here.com](https://docs.google.com/document/d/1HdGKNBeXT8zJ1HxpT-oSyGSVtKK8hEzWZa1ZjDTXE6c/edit?tab=t.0))
+4. 
+5. Final dataset: 
   
