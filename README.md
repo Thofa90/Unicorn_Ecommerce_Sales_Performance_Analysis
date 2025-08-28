@@ -104,5 +104,5 @@ If addressed effectively, Unicorn can:
 
 2. SQL Queries for business analysis: [Click here](https://docs.google.com/document/d/1HdGKNBeXT8zJ1HxpT-oSyGSVtKK8hEzWZa1ZjDTXE6c/edit?tab=t.0)
  
-3. Final dataset: You can find the dataset [here](dataset/Unicorn_project_sql.csv).
+3. Final dataset: You can find the dataset [here](https://drive.google.com/file/d/1gtp88oCBU1UACYYybjWgB1K55xOg-au4/view?usp=sharing)
   
