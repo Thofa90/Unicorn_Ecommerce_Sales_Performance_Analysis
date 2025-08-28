@@ -106,3 +106,31 @@ If addressed effectively, Unicorn can:
  
 3. Final dataset: You can find the dataset [here](https://drive.google.com/file/d/1gtp88oCBU1UACYYybjWgB1K55xOg-au4/view?usp=sharing)
   
+# 🔎 Google Sheet Analysis
+
+📊 Optional Daily Monitoring Dashboard (Google Sheets)
+
+Link for Google Sheet: [Click here](https://docs.google.com/spreadsheets/d/126F3HeCnNYX5u7FQmS0PWIk2nav5kglyfFxwRCNbq9A/edit?gid=1956504790#gid=1956504790)
+
+In addition to the main analysis, I built a dynamic monitoring dashboard in Google Sheets to help the Unicorn DA team track sales and profit performance by year and region.
+
+	• Regional KPIs: Visualized total sales, profit, and average discount per region using formulas + conditional formatting.
+ 
+	• Category Trends: Monthly sales, profit, and profit margin calculated for each category/sub-category with supporting charts.
+ 
+	• Dynamic Year Filter: A dedicated tab allows users to filter by year, automatically updating all metrics and charts.
+ 
+	• Profit Dashboard:
+ 
+		•Histogram of profit distribution with outlier handling.
+		•Line/waterfall chart showing profit trend across months.
+		•Top 5 & Bottom 5 profitable subcategories.
+		•Top 10 & Bottom 10 customers by profitability.
+  
+	• Dynamic KPIs included:
+ 
+		•✅ Sum of positive profit
+		•❌ Sum of negative profit
+		•📦 Number of distinct orders
+
+This Google Sheets dashboard makes it easy for non-technical users to interactively explore profitability trends and identify problem areas in real-time.
