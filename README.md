@@ -63,18 +63,25 @@ If addressed effectively, Unicorn can:
 
 # 🔎 Analysis Process
 
-	1.  Data Preparation
+**1.  Data Preparation**
+
 	•	Imported and cleaned sales data (2015–2018).
 	•	Checked missing values, duplicates, and standardization of product categories.
-	2.	Exploratory Data Analysis (EDA)
+ 
+**2.	Exploratory Data Analysis (EDA)**
+
 	•	Revenue and profit trends by region, category, and sub-category.
 	•	Customer segmentation by purchase frequency and discount sensitivity.
 	•	Shipping cost vs. profit analysis.
-	3.	Business Analysis
+ 
+**3.	Business Analysis**
+
 	•	Identified loss-making products and categories.
 	•	Evaluated discount patterns and their correlation with profit.
 	•	Highlighted shipping bottlenecks and their financial impact.
-	4.	Recommendations
+ 
+**4.	Recommendations**
+
 	•	Focus marketing on high-margin products like Copiers.
 	•	Refine discount strategy by limiting excessive discounts on already popular items.
 	•	Optimize logistics in underperforming regions.
