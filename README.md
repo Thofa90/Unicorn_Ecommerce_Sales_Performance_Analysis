@@ -157,3 +157,29 @@ Key Analyses Performed:
 Outcome:
 
 This sheet-based analysis provided quick operational insights — from identifying loss-making orders and over-discounted products to tracking profitable customers and regions. It also enabled real-time interactive reporting for decision-making without requiring advanced tools.
+
+# 🔎 Visualization and Dashboard in Tableau
+
+I built interactive dashboards in Tableau to analyze Unicorn Sales Data (2015–2018). These dashboards highlight key performance trends, product profitability, customer insights, and operational bottlenecks.
+
+## 🔹 Dashboard 1 (Overall Sales & Profit Insights)
+
+![Dashboard 1](dataset/Dashboard 2.png)
+
+	•	Displays total sales, profit, number of customers, and orders over years.
+	•	Shows profit & sales by category and sub-category, identifying profitable vs. loss-making products.
+	•	A map view highlights total sales and profit distribution across U.S. states, uncovering high and low-performing regions.
+
+🔹 Dashboard 2 (Operational & Discount Insights)
+	•	Trend analysis of sales and profit over months.
+	•	Discount vs. Profit Ratio scatterplot shows how over-discounting reduces profitability.
+	•	Average shipping time analysis across states, highlighting delivery inefficiencies.
+	•	Sales & Profit breakdown by region and customer segment, showing which customer groups contribute most to profit.
+
+⸻
+
+👉 These dashboards provided actionable insights into:
+	•	Promoting high-margin products (e.g., copiers, phones, accessories).
+	•	Refining discount strategy to reduce losses in Furniture (Tables & Bookcases).
+	•	Optimizing shipping logistics, especially in the South region.
+	•	Enhancing customer segmentation to target profitable customer groups effectively.
