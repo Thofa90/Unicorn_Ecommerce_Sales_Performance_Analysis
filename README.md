@@ -4,6 +4,12 @@
 
 Unicorn E-Commerce Sales Performance Analysis (2015–2018)
 
+# Project summary
+Data Exploration by SQL
+Data Cleaning using Spreadsheets
+Getting Insights using Tableau
+Executive summary and presentation
+
 ⸻
 
 # 🎯 Goal
@@ -63,6 +69,7 @@ If addressed effectively, Unicorn can:
 
 # 🔎 Analysis Process
 
+
 **1.  Data Preparation**
 
 	•	Imported and cleaned sales data (2015–2018).
@@ -86,3 +93,10 @@ If addressed effectively, Unicorn can:
 	•	Refine discount strategy by limiting excessive discounts on already popular items.
 	•	Optimize logistics in underperforming regions.
 	•	Implement customer segmentation for personalized offers and loyalty programs.91
+
+# 🔎 Database Link and SQL queries
+
+1. Database Link: postgres://Test:bQNxVzJL4g6u@ep-noisy-flower-846766-pooler.us-east-2.aws.neon.tech/Unicorn
+2. SQL Queries for business analysis: https://docs.google.com/document/d/1HdGKNBeXT8zJ1HxpT-oSyGSVtKK8hEzWZa1ZjDTXE6c/edit?tab=t.0
+3. Final dataset: 
+  
