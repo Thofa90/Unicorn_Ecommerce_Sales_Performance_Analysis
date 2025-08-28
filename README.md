@@ -108,7 +108,7 @@ If addressed effectively, Unicorn can:
   
 # 🔎 Google Sheet Analysis
 
-📊 Optional Daily Monitoring Dashboard (Google Sheets)
+**📊 1. Daily Monitoring Dashboard (Google Sheets)**
 
 Link for Google Sheet: [Click here](https://docs.google.com/spreadsheets/d/126F3HeCnNYX5u7FQmS0PWIk2nav5kglyfFxwRCNbq9A/edit?gid=1956504790#gid=1956504790)
 
@@ -134,3 +134,26 @@ In addition to the main analysis, I built a dynamic monitoring dashboard in Goog
 		•📦 Number of distinct orders
 
 This Google Sheets dashboard makes it easy for non-technical users to interactively explore profitability trends and identify problem areas in real-time.
+
+**📑 2. Additional Google Sheets Analysis**
+
+Link for Google Sheet: [Click here](https://docs.google.com/spreadsheets/d/1AaaG0Gh6HVU84gtUj-r0LKzDfWaEyqkdm7i7oYX6TM8/edit?gid=1131846199#gid=1131846199)
+
+I also performed hands-on business analysis directly in Google Sheets, answering operational and strategic questions using formulas, pivot tables, and conditional formatting.
+
+Key Analyses Performed:
+
+	•	📍 Identified the city with the highest sales and the state with the most profit.
+	•	💸 Calculated the average discount across all orders and analyzed shipping costs by order.
+	•	👥 Found the most popular product in the Consumer segment and the top customer by number of purchases.
+	•	📦 Measured total profit for Office Supplies and the number of orders shipped via Standard Class.
+	•	📊 Regional insights: identified which region had the highest June sales.
+	•	🧮 Created price per unit (before discount) to find the most expensive product.
+	•	🔄 Built pivot tables for manufacturer + category sales (e.g., second highest sales manufacturer in Technology).
+	•	🏷️ Classified orders into High / Low / Loss using IFS + conditional formatting.
+	•	⏳ Calculated order-to-shipping days per order with a color-scale visualization.
+	•	🔽 Added interactive dropdowns (category & product) to dynamically return price per unit.
+
+Outcome:
+
+This sheet-based analysis provided quick operational insights — from identifying loss-making orders and over-discounted products to tracking profitable customers and regions. It also enabled real-time interactive reporting for decision-making without requiring advanced tools.
